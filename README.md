@@ -18,7 +18,7 @@
 <img src= https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white>
 <img  src=https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white>
 <img  src=https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white>
-<img  srchttps://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white>
+<img  src=https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white>
 </div>
 <br/>
 
